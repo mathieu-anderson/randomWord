@@ -3,4 +3,10 @@
   text-align: center;
   padding-top: 1em;
   font-size: 2em;
+  height: 79px;
+}
+
+.target:hover {
+  cursor: pointer;
+  font-weight: bold;
 }
